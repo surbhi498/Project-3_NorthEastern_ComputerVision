@@ -1,0 +1,8 @@
+{
+  "files.associations": {
+    "*.cshtml": "aspnetcorerazor",
+    "*.jsx ": "javascriptreact",
+    "numeric": "cpp",
+    "iostream": "cpp"
+  }
+}
